@@ -1,0 +1,89 @@
+/* cutesycrochet css file 
+*da-xia james (20230099*/
+
+.pnav li a {
+    float: right;
+  }
+  
+  .pnav li a {
+    display: block;
+    padding: 10px 100px;
+    background-color: #BDA597;
+  }
+  
+  .pnav a:link {
+      color: #ffe8da;
+    }
+    
+    /* visited link */
+  .pnav a:visited {
+      color: rgb(39, 35, 83);
+    };
+    
+    
+    /* mouse over link */
+   .pnav a:hover {
+      color: rgb(82, 67, 74);
+    }
+    
+    /* selected link */
+    .pnav a:active {
+      color: rgb(42, 42, 51);
+    }
+   .pnav a:link {
+      text-decoration: none;
+    }
+  
+  
+    /*the other abt us link*/
+  .bnav li a {
+    display: block;
+    padding: 10px 120px;
+    background-color: #e6cfd6;
+  }
+    .bnav a:visited {
+      text-decoration: none;
+    }
+    
+  .bnav a:hover {
+      text-decoration: underline;
+    }
+    
+  .bnav a:active {
+      text-decoration: underline;
+    }
+   .bnav a:link {
+      color: #ffe8da;
+    }
+    
+    /* visited link */
+  .bnav  a:visited {
+      color: rgb(210, 252, 210);
+    }
+    
+    /* mouse over link */
+  .bnav  a:hover {
+      color: rgb(82, 67, 74);
+    }
+    
+    /* selected link */
+   .bnav a:active {
+      color: rgb(42, 42, 51);
+    }
+  .bnav a:link {
+      text-decoration: none;
+    }
+    
+  .bnav  a:visited {
+      text-decoration: none;
+    }
+    
+  .bnav a:hover {
+      text-decoration: underline;
+    }
+    
+  .bnav a:active {
+      text-decoration: underline;
+    }
+
+    
